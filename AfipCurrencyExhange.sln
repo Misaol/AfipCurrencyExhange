@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AfipCurrencyExhange", "AfipCurrencyExhange.csproj", "{BAC6AF86-972B-44CF-839B-61720814EEFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DB", "..\DB\DB.csproj", "{ED41F95D-F7B7-4715-8A1F-885BC59E47B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "..\Business\Business.csproj", "{9DA2CA11-29B0-49C5-8E19-7A131C75961B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC6AF86-972B-44CF-839B-61720814EEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC6AF86-972B-44CF-839B-61720814EEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC6AF86-972B-44CF-839B-61720814EEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC6AF86-972B-44CF-839B-61720814EEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED41F95D-F7B7-4715-8A1F-885BC59E47B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED41F95D-F7B7-4715-8A1F-885BC59E47B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED41F95D-F7B7-4715-8A1F-885BC59E47B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED41F95D-F7B7-4715-8A1F-885BC59E47B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DA2CA11-29B0-49C5-8E19-7A131C75961B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA2CA11-29B0-49C5-8E19-7A131C75961B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA2CA11-29B0-49C5-8E19-7A131C75961B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA2CA11-29B0-49C5-8E19-7A131C75961B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {764FAAB7-9728-40EA-9EAA-FBEAA5EC5DB9}
+	EndGlobalSection
+EndGlobal
